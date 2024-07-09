@@ -1,0 +1,10 @@
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+  href: /
+- text: Future Workshops
+  menu: # Dropdown menu (one level deep only)
+  - text: Online Workshop (November 2024)
+    href: /future_workshops/2024-11-18/
+  - text: ConGen (Namibia, January 2025)
+    href: /future_workshops/2025-01-05/
