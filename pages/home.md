@@ -1,17 +1,16 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: Welcome!
+description: Here you can find information about GADMA workshops
+#background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
 
-## Installation
+## Future Workshops
 
-See the demo website for instructions:
+There are several upcoming workshops on GADMA:
 
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+- [Online Workshop (18 November 2024)]({{ '/future_workshops/2024-07-18/' | relative_url }})
+- [ConGen course in Namibia (05-15 January 2025)]({{ '/future_workshops/2025-01-05/' | relative_url }})
+
