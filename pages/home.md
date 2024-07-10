@@ -2,7 +2,7 @@
 layout: home
 title: Welcome!
 description: Here you can find information about GADMA workshops
-#background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/images/cover_image.png
 permalink: /
 ---
 
@@ -11,6 +11,6 @@ permalink: /
 
 There are several upcoming workshops on GADMA:
 
-- [Online Workshop (18 November 2024)]({{ '/future_workshops/2024-11-18/' | relative_url }})
-- [ConGen course in Namibia (05-15 January 2025)]({{ '/future_workshops/2025-01-05/' | relative_url }})
+- [Hybrid Workshop on Demographic Inference (18-19 November 2024)]({{ '/future_workshops/2024-11-18-19/' | relative_url }})
+- [ConGen course in Namibia (05-15 January 2025)]({{ '/future_workshops/2025-01-05-15/' | relative_url }})
 
