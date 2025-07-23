@@ -4,7 +4,9 @@
   href: /
 - text: Future Workshops
   menu: # Dropdown menu (one level deep only)
-  - text: Workshop on Demographic Inference (Hybrid, 18-19 November 2024)
+  - text: Workshop on Demographic Inference (Online, 17-19 November 2025)
+    href: /future_workshops/2025-11-17-19/
+- text: Past Workshops
+  menu: # Dropdown menu (one level deep only)
+  - text: Workshop on Demographic Inference (Online, 18-19 November 2024)
     href: /future_workshops/2024-11-18-19/
-  - text: ConGen course (Namibia, 5-15 January 2025)
-    href: /future_workshops/2025-01-05-15/
