@@ -13,6 +13,7 @@ There are several upcoming workshops on GADMA:
 
 
 Stay updated on future events:
+
 <a class="btn btn-outline-primary btn-lg" href="https://forms.gle/xD4518AKnFRWTTFMA" role="button">Sign Up for Workshop Updates</a>
 
 ## Past Workshops
